@@ -1,4 +1,4 @@
-### Hello, i'm a C# Developer and i code ghost cheating auto-clickers.
+### Hello, i'm learning C# and Java.
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pupetus&show_icons=true&theme=dracula&include_all_commits=true">
