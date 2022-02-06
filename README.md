@@ -1,3 +1,4 @@
 ### Hello, i'm learning C# and Java.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupetus&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupetus&count_private=true&theme=dracula)](https://github.com/Pupetus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupetus&count_private=true&theme=dracula)](https://github.com/Pupetus/github-readme-stats)
