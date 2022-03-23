@@ -1,6 +1,6 @@
 ### Hello, i'm learning C#.
 
-- Developer @ http://punjabi.rf.gd  
+- Developer @ https://zfranzz.github.io/
 
 ##
 
