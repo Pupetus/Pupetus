@@ -6,13 +6,13 @@
 
 I had contact with these languages and frameworks:
 <div style="display: inline_block"><br>
-  <a href="https://www.w3schools.com"><img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
+  <a href="https://github.com/Pupetus/ThunderClickerApp"><img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
   -
-  <a href="https://www.w3schools.com"><img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a>
+  <a href="https://github.com/Pupetus/ThunderClickerApp"><img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a>
   -
-  <a href="https://www.w3schools.com"><img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+  <a href="https://github.com/Pupetus/Pupetus-Bot"><img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   -
-  <a href="https://www.w3schools.com"><img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></a>
+  <a href="https://github.com/Pupetus/Pupetus-Bot"><img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></a>
 </div>
   
 ##  
